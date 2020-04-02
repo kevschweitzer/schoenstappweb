@@ -1,0 +1,18 @@
+body {
+  background-color: #00004d
+}
+
+.container {
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  color: #FFFFFF;
+	font: 700 2.5rem/3rem "Montserrat", sans-serif;
+}
+
+.p-heading {
+  color: #FFFFFF;
+	font: 700 1.75rem/2.125rem "Montserrat", sans-serif;
+}
